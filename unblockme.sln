@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unblockme", "unblockme\unblockme.csproj", "{1CE9B09E-ADF3-4AAE-A621-C88191F43AEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnBlockMePro", "UnBlockMePro\UnBlockMePro.csproj", "{F2B027DC-853E-47BC-B11F-685666120E47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1CE9B09E-ADF3-4AAE-A621-C88191F43AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1CE9B09E-ADF3-4AAE-A621-C88191F43AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1CE9B09E-ADF3-4AAE-A621-C88191F43AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1CE9B09E-ADF3-4AAE-A621-C88191F43AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B027DC-853E-47BC-B11F-685666120E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B027DC-853E-47BC-B11F-685666120E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B027DC-853E-47BC-B11F-685666120E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B027DC-853E-47BC-B11F-685666120E47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F63D0AA8-ED07-40A5-9AD3-21B07969D99A}
 	EndGlobalSection
 EndGlobal

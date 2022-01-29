@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ce9b09e-adf3-4aae-a621-c88191f43aee": {
+      "ProjectGuid": "1ce9b09e-adf3-4aae-a621-c88191f43aee",
+      "DisplayName": "unblockme",
+      "ColorIndex": 0
+    },
+    "f2b027dc-853e-47bc-b11f-685666120e47": {
+      "ProjectGuid": "f2b027dc-853e-47bc-b11f-685666120e47",
+      "DisplayName": "UnBlockMePro",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
